@@ -1,3 +1,12 @@
+# Next.jsのいろいろを試すリポジトリです
+いろいろ実験中。
+
+## 参考
+https://qiita.com/nishun0419/items/48f9f5b2d0e58b928e29 
+
+
+---
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
